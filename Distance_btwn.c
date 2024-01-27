@@ -1,3 +1,4 @@
+// Write a program to calculate the distance between two points.
 #include<stdio.h>
 #include<math.h>
 void main()

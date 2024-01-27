@@ -1,3 +1,4 @@
+// Write a program that accepts two integers from user and calculates the Product of the two integers.
 #include<stdio.h>
 void main()
 {
